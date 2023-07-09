@@ -1,0 +1,7 @@
+﻿  parser.c
+D:\Facultate\LFTC\AtomC\parser.c(284,7): warning C4101: 't': unreferenced local variable
+D:\Facultate\LFTC\AtomC\parser.c(384,9): warning C4101: 'op': unreferenced local variable
+D:\Facultate\LFTC\AtomC\parser.c(469,9): warning C4101: 'op': unreferenced local variable
+D:\Facultate\LFTC\AtomC\parser.c(589,9): warning C4101: 'op': unreferenced local variable
+D:\Facultate\LFTC\AtomC\parser.c(381): warning C4715: 'exprMulPrim': not all control paths return a value
+  AtomC.vcxproj -> D:\Facultate\LFTC\AtomC\x64\Debug\AtomC.exe
